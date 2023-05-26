@@ -1,0 +1,1486 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfTypeDate xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <TypeDate>
+    <guid>5d54681b857dae548a43607c3ca9af98</guid>
+    <fileName>Assets/Plugins/UnitySweeper/Editor/AssetCollector.cs</fileName>
+    <timeStamp>2022-12-13T22:37:41-05:00</timeStamp>
+    <typeFullName>
+      <string>UnitySweeper.AssetCollector</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp-Editor-firstpass, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>0df89ed82addce54ab5b7ef62248204e</guid>
+    <fileName>Assets/Plugins/UnitySweeper/Editor/AssetReferenceCollection.cs</fileName>
+    <timeStamp>2022-12-13T22:37:41-05:00</timeStamp>
+    <typeFullName>
+      <string>UnitySweeper.AssetReferenceCollection</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp-Editor-firstpass, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>1e8b32fc68b92c047816dffea2d47b6e</guid>
+    <fileName>Assets/Plugins/UnitySweeper/Editor/ClassReferenceCollection.cs</fileName>
+    <timeStamp>2022-12-13T22:37:41-05:00</timeStamp>
+    <typeFullName>
+      <string>UnitySweeper.ClassReferenceCollection</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp-Editor-firstpass, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>0d6694cc495e4ea4a9af8578f692aab3</guid>
+    <fileName>Assets/Plugins/UnitySweeper/Editor/CollectionData.cs</fileName>
+    <timeStamp>2022-12-13T22:37:41-05:00</timeStamp>
+    <typeFullName>
+      <string>UnitySweeper.CollectionData</string>
+      <string>UnitySweeper.TypeDate</string>
+      <string>UnitySweeper.IReferenceCollection</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp-Editor-firstpass, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>d3fbf866275695b4b9f4b28442cf3efb</guid>
+    <fileName>Assets/Plugins/UnitySweeper/Editor/FindUnusedAssetsWindow.cs</fileName>
+    <timeStamp>2022-12-13T22:37:41-05:00</timeStamp>
+    <typeFullName>
+      <string>UnitySweeper.FindUnusedAssetsWindow</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp-Editor-firstpass, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>d714e3409e18392428a8758701e7d96a</guid>
+    <fileName>Assets/Plugins/UnitySweeper/Editor/ShaderReferenceCollection.cs</fileName>
+    <timeStamp>2022-12-13T22:37:41-05:00</timeStamp>
+    <typeFullName>
+      <string>UnitySweeper.ShaderReferenceCollection</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp-Editor-firstpass, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>dac255a2ee16b0d47a3e485b497510aa</guid>
+    <fileName>Assets/_Course Library/Scripts/Actions/ApplyPhysics.cs</fileName>
+    <timeStamp>2020-10-07T14:25:35-05:00</timeStamp>
+    <typeFullName>
+      <string>ApplyPhysics</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>0efd09f44c334cc45abf43175b085d56</guid>
+    <fileName>Assets/_Course Library/Scripts/Actions/ChangeMaterial.cs</fileName>
+    <timeStamp>2020-10-07T13:22:29-05:00</timeStamp>
+    <typeFullName>
+      <string>ChangeMaterial</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>c008fa0317c73744fa9f4b940d3fd035</guid>
+    <fileName>Assets/_Course Library/Scripts/Actions/ConvertValueToHue.cs</fileName>
+    <timeStamp>2020-12-18T09:44:54-05:00</timeStamp>
+    <typeFullName>
+      <string>ConvertValueToHue</string>
+      <string>ConvertValueToHue+ColorChangeEvent</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>04697fc131642b6418acf85ba5aeb762</guid>
+    <fileName>Assets/_Course Library/Scripts/Actions/CreateTrail.cs</fileName>
+    <timeStamp>2020-12-18T09:46:26-05:00</timeStamp>
+    <typeFullName>
+      <string>CreateTrail</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>b56b982c85b468f45a3260808d7ea637</guid>
+    <fileName>Assets/_Course Library/Scripts/Actions/DestroyObject.cs</fileName>
+    <timeStamp>2020-10-07T13:22:29-05:00</timeStamp>
+    <typeFullName>
+      <string>DestroyObject</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>969b8e08cffa4e44681eb600a8dfc099</guid>
+    <fileName>Assets/_Course Library/Scripts/Actions/FadeCanvas.cs</fileName>
+    <timeStamp>2020-10-16T12:41:39-05:00</timeStamp>
+    <typeFullName>
+      <string>FadeCanvas</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>d2dac634348b5444da2deb0b098f9379</guid>
+    <fileName>Assets/_Course Library/Scripts/Actions/FadeCanvasOnOverlap.cs</fileName>
+    <timeStamp>2020-12-22T15:51:05-05:00</timeStamp>
+    <typeFullName>
+      <string>FadeCanvasOnOverlap</string>
+      <string>FadeCanvasOnOverlap+ValueChangeEvent</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>623c5848030e9674893bb3bb376834b8</guid>
+    <fileName>Assets/_Course Library/Scripts/Actions/LaunchProjectile.cs</fileName>
+    <timeStamp>2020-12-18T16:50:32-05:00</timeStamp>
+    <typeFullName>
+      <string>LaunchProjectile</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>403efda511d335c4a865b0a1f33cc9e0</guid>
+    <fileName>Assets/_Course Library/Scripts/Actions/LoadScene.cs</fileName>
+    <timeStamp>2020-10-07T13:22:29-05:00</timeStamp>
+    <typeFullName>
+      <string>LoadScene</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>bf4d2cf4bf4e14d48a4a6c75ce3db697</guid>
+    <fileName>Assets/_Course Library/Scripts/Actions/LookAtPlayer.cs</fileName>
+    <timeStamp>2020-10-07T13:22:29-05:00</timeStamp>
+    <typeFullName>
+      <string>LookAtPlayer</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>dce55461d6b6c3c4f9a191e4f55fe2c4</guid>
+    <fileName>Assets/_Course Library/Scripts/Actions/ManuallySelectObject.cs</fileName>
+    <timeStamp>2020-12-18T09:49:04-05:00</timeStamp>
+    <typeFullName>
+      <string>ManuallySelectObject</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>ae83748d921a24c479bbf9e63dd4ea89</guid>
+    <fileName>Assets/_Course Library/Scripts/Actions/MatchRotation.cs</fileName>
+    <timeStamp>2020-10-08T13:36:06-05:00</timeStamp>
+    <typeFullName>
+      <string>MatchRotation</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>082c3f8b71935c2468a296c7e6146e9b</guid>
+    <fileName>Assets/_Course Library/Scripts/Actions/MoveWithVelocity.cs</fileName>
+    <timeStamp>2020-10-07T14:25:35-05:00</timeStamp>
+    <typeFullName>
+      <string>MoveWithVelocity</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>9b7cac9eabe62344f8642d99e2cf7ae9</guid>
+    <fileName>Assets/_Course Library/Scripts/Actions/PlayAnimation.cs</fileName>
+    <timeStamp>2020-11-09T11:12:16-05:00</timeStamp>
+    <typeFullName>
+      <string>PlayAnimation</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>0ab6d3e7b225a7342a0d702b6151692b</guid>
+    <fileName>Assets/_Course Library/Scripts/Actions/PlayContinuousSound.cs</fileName>
+    <timeStamp>2020-12-18T16:50:32-05:00</timeStamp>
+    <typeFullName>
+      <string>PlayContinuousSound</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>0755a2ba17a31d643b4a27e3034d8a79</guid>
+    <fileName>Assets/_Course Library/Scripts/Actions/PlayQuickSound.cs</fileName>
+    <timeStamp>2020-10-12T13:53:45-05:00</timeStamp>
+    <typeFullName>
+      <string>PlayQuickSound</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>76a895b5e674db04d8b4f8110c068852</guid>
+    <fileName>Assets/_Course Library/Scripts/Actions/PlaySoundsFromList.cs</fileName>
+    <timeStamp>2020-11-11T12:42:59-05:00</timeStamp>
+    <typeFullName>
+      <string>PlaySoundsFromList</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>3d4642753971e264fbb20044fa231cd5</guid>
+    <fileName>Assets/_Course Library/Scripts/Actions/PlayVideo.cs</fileName>
+    <timeStamp>2021-04-01T14:39:42-05:00</timeStamp>
+    <typeFullName>
+      <string>PlayVideo</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>67ddb01715fbbc34fb1b56a1a852d398</guid>
+    <fileName>Assets/_Course Library/Scripts/Actions/RemoveObjectsWithTag.cs</fileName>
+    <timeStamp>2020-10-07T14:25:35-05:00</timeStamp>
+    <typeFullName>
+      <string>RemoveObjectsWithTag</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>a7f251fe27271a5419bb3a1e74c89e4d</guid>
+    <fileName>Assets/_Course Library/Scripts/Actions/RotateObject.cs</fileName>
+    <timeStamp>2020-10-20T21:51:53-05:00</timeStamp>
+    <typeFullName>
+      <string>RotateObject</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>091efd902c2bede4fa71851697450155</guid>
+    <fileName>Assets/_Course Library/Scripts/Actions/ScaleObject.cs</fileName>
+    <timeStamp>2020-09-21T12:14:16-05:00</timeStamp>
+    <typeFullName>
+      <string>ScaleObject</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>b56684aba41be06468cf3931aa42d7ed</guid>
+    <fileName>Assets/_Course Library/Scripts/Actions/SetInteractionLayer.cs</fileName>
+    <timeStamp>2020-12-23T11:10:30-05:00</timeStamp>
+    <typeFullName>
+      <string>SetInteractionLayer</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>b40959c22a1f1574599627bffdb54092</guid>
+    <fileName>Assets/_Course Library/Scripts/Actions/SetLightColor.cs</fileName>
+    <timeStamp>2021-01-05T13:01:11-05:00</timeStamp>
+    <typeFullName>
+      <string>SetLightColor</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>eccb070ac0c97c84aacf5614a75792eb</guid>
+    <fileName>Assets/_Course Library/Scripts/Actions/SetLightIntensity.cs</fileName>
+    <timeStamp>2021-01-05T13:01:11-05:00</timeStamp>
+    <typeFullName>
+      <string>SetLightIntensity</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>17d39f7f6aa98a142b9a9cd6b84c1f49</guid>
+    <fileName>Assets/_Course Library/Scripts/Actions/SetMaterialColor.cs</fileName>
+    <timeStamp>2020-10-07T14:25:35-05:00</timeStamp>
+    <typeFullName>
+      <string>SetMaterialColor</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>9a5c21267ec5adf42bfc48a661930ca1</guid>
+    <fileName>Assets/_Course Library/Scripts/Actions/SetParticleRate.cs</fileName>
+    <timeStamp>2021-01-05T13:01:11-05:00</timeStamp>
+    <typeFullName>
+      <string>SetParticleRate</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>f4d41df5beb315c43a4734c560cad404</guid>
+    <fileName>Assets/_Course Library/Scripts/Actions/SetVolume.cs</fileName>
+    <timeStamp>2020-10-07T13:22:29-05:00</timeStamp>
+    <typeFullName>
+      <string>SetVolume</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>9be2df20dd4c2d74a92ddf9be77c7a94</guid>
+    <fileName>Assets/_Course Library/Scripts/Actions/ShowMessageFromList.cs</fileName>
+    <timeStamp>2020-10-07T14:25:35-05:00</timeStamp>
+    <typeFullName>
+      <string>ShowMessageFromList</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>1ba4bf9bef871d445b345b49f7bc5ea3</guid>
+    <fileName>Assets/_Course Library/Scripts/Actions/SpawnFromList.cs</fileName>
+    <timeStamp>2020-11-19T09:47:53-05:00</timeStamp>
+    <typeFullName>
+      <string>SpawnFromList</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>a658f19182a575a46b14f720a8e295a7</guid>
+    <fileName>Assets/_Course Library/Scripts/Actions/SpawnObject.cs</fileName>
+    <timeStamp>2020-10-07T14:25:35-05:00</timeStamp>
+    <typeFullName>
+      <string>SpawnObject</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>e237b7a58da18d94aab9f5aa57e6edc4</guid>
+    <fileName>Assets/_Course Library/Scripts/Actions/StickToObject.cs</fileName>
+    <timeStamp>2020-10-07T13:22:29-05:00</timeStamp>
+    <typeFullName>
+      <string>StickToObject</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>9469e5ef7ce252d48a689ad38d7b5695</guid>
+    <fileName>Assets/_Course Library/Scripts/Actions/TeleportPlayer.cs</fileName>
+    <timeStamp>2020-11-12T17:01:23-05:00</timeStamp>
+    <typeFullName>
+      <string>TeleportPlayer</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>d451ed72cf1e223499d903bc4238ae8e</guid>
+    <fileName>Assets/_Course Library/Scripts/Actions/ToggleInterface.cs</fileName>
+    <timeStamp>2020-10-07T13:22:29-05:00</timeStamp>
+    <typeFullName>
+      <string>ToggleInterface</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>376688c5b82056e4da4c2b159887a7dc</guid>
+    <fileName>Assets/_Course Library/Scripts/Actions/ToggleLight.cs</fileName>
+    <timeStamp>2021-01-05T13:01:11-05:00</timeStamp>
+    <typeFullName>
+      <string>ToggleLight</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>ad0a2892d8b703341afc39a5cf89bef8</guid>
+    <fileName>Assets/_Course Library/Scripts/Actions/ToggleParticle.cs</fileName>
+    <timeStamp>2021-01-05T13:01:11-05:00</timeStamp>
+    <typeFullName>
+      <string>ToggleParticle</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>cf14522d53cc1594991c164e785780dc</guid>
+    <fileName>Assets/_Course Library/Scripts/Actions/ToggleRay.cs</fileName>
+    <timeStamp>2021-01-13T14:48:08-05:00</timeStamp>
+    <typeFullName>
+      <string>ToggleRay</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>064216bc04beaca4fab9a6b5d9bca977</guid>
+    <fileName>Assets/_Course Library/Scripts/Actions/ToggleVisibility.cs</fileName>
+    <timeStamp>2021-01-05T13:01:11-05:00</timeStamp>
+    <typeFullName>
+      <string>ToggleVisibility</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>866d134ae31a01841b6156f8d0a87054</guid>
+    <fileName>Assets/_Course Library/Scripts/Actions/TranslateObject.cs</fileName>
+    <timeStamp>2021-02-26T16:37:39-05:00</timeStamp>
+    <typeFullName>
+      <string>TranslateObject</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>b7686e657f003894781f5cc6240c99f9</guid>
+    <fileName>Assets/_Course Library/Scripts/Actions/VibrateController.cs</fileName>
+    <timeStamp>2020-11-19T09:47:53-05:00</timeStamp>
+    <typeFullName>
+      <string>VibrateController</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>4a8d337e8bc7ac4498e0df29e7b8bd5e</guid>
+    <fileName>Assets/_Course Library/Scripts/Conditions/OnButtonPress.cs</fileName>
+    <timeStamp>2020-11-11T12:42:59-05:00</timeStamp>
+    <typeFullName>
+      <string>OnButtonPress</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>6bf7bf2b5cedc0b4fb673b10c7900629</guid>
+    <fileName>Assets/_Course Library/Scripts/Conditions/OnCollision.cs</fileName>
+    <timeStamp>2020-12-17T15:48:33-05:00</timeStamp>
+    <typeFullName>
+      <string>OnCollision</string>
+      <string>OnCollision+CollisionEvent</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>e42b0a565bbce52428a417b892af2954</guid>
+    <fileName>Assets/_Course Library/Scripts/Conditions/OnJoystickMove.cs</fileName>
+    <timeStamp>2020-11-11T12:42:59-05:00</timeStamp>
+    <typeFullName>
+      <string>OnJoystickMove</string>
+      <string>OnJoystickMove+ValueChangeEvent</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>2193ace7284603b4c8a0e1e6579a8a7f</guid>
+    <fileName>Assets/_Course Library/Scripts/Conditions/OnPull.cs</fileName>
+    <timeStamp>2020-10-07T14:25:35-05:00</timeStamp>
+    <typeFullName>
+      <string>OnPull</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>e9315cd1bd0bb624886da5b1f92c045e</guid>
+    <fileName>Assets/_Course Library/Scripts/Conditions/OnSceneLoad.cs</fileName>
+    <timeStamp>2020-10-15T14:02:07-05:00</timeStamp>
+    <typeFullName>
+      <string>OnSceneLoad</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>e311508d4777a834fb25a1729a564503</guid>
+    <fileName>Assets/_Course Library/Scripts/Conditions/OnTilt.cs</fileName>
+    <timeStamp>2020-10-15T13:37:12-05:00</timeStamp>
+    <typeFullName>
+      <string>OnTilt</string>
+      <string>OnTilt+TiltEvent</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>cee04e5a7e7214571866857aadcf7924</guid>
+    <fileName>Assets/_Course Library/Scripts/Conditions/OnTimedInterval.cs</fileName>
+    <timeStamp>2020-10-07T14:25:35-05:00</timeStamp>
+    <typeFullName>
+      <string>OnTimedInterval</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>59fe722e016ecae438f59fbf21af3ecf</guid>
+    <fileName>Assets/_Course Library/Scripts/Conditions/OnTrigger.cs</fileName>
+    <timeStamp>2020-12-17T15:48:33-05:00</timeStamp>
+    <typeFullName>
+      <string>OnTrigger</string>
+      <string>OnTrigger+TriggerEvent</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>2eb756a4b82b24040a468c0a73063e4d</guid>
+    <fileName>Assets/_Course Library/Scripts/Conditions/OnVelocity.cs</fileName>
+    <timeStamp>2020-10-15T13:37:12-05:00</timeStamp>
+    <typeFullName>
+      <string>OnVelocity</string>
+      <string>OnVelocity+VelocityEvent</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>acde65f5db6773e49ad668404cf55472</guid>
+    <fileName>Assets/_Course Library/Scripts/Controls/XRButton.cs</fileName>
+    <timeStamp>2021-01-29T07:48:09-05:00</timeStamp>
+    <typeFullName>
+      <string>XRButton</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>754d27665ba38d44b9c1633441bdd691</guid>
+    <fileName>Assets/_Course Library/Scripts/Controls/XRJoystick.cs</fileName>
+    <timeStamp>2021-01-29T07:48:09-05:00</timeStamp>
+    <typeFullName>
+      <string>XRJoystick</string>
+      <string>XRJoystick+JoystickType</string>
+      <string>XRJoystick+ValueChangeEvent</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>65a8500fa86faa04596fb5f9d40efeae</guid>
+    <fileName>Assets/_Course Library/Scripts/Controls/XRKnob.cs</fileName>
+    <timeStamp>2021-01-29T07:48:09-05:00</timeStamp>
+    <typeFullName>
+      <string>XRKnob</string>
+      <string>XRKnob+ValueChangeEvent</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>e601cf28e9702c945abe3b90e7f51974</guid>
+    <fileName>Assets/_Course Library/Scripts/Controls/XRLever.cs</fileName>
+    <timeStamp>2021-01-29T07:48:09-05:00</timeStamp>
+    <typeFullName>
+      <string>XRLever</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>0d494b658b37958449db82c0ee015fbb</guid>
+    <fileName>Assets/_Course Library/Scripts/Controls/XRSlider.cs</fileName>
+    <timeStamp>2021-01-29T07:48:09-05:00</timeStamp>
+    <typeFullName>
+      <string>XRSlider</string>
+      <string>XRSlider+ValueChangeEvent</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>450716ccd742742d2941d9064207d6d1</guid>
+    <fileName>Assets/_Course Library/Scripts/Testing/DisplayFPS.cs</fileName>
+    <timeStamp>2020-11-19T09:47:53-05:00</timeStamp>
+    <typeFullName>
+      <string>DisplayFPS</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>22929c6e67c4140378af9d4dcede9495</guid>
+    <fileName>Assets/_Course Library/Scripts/Testing/Notes.cs</fileName>
+    <timeStamp>2020-11-19T09:48:49-05:00</timeStamp>
+    <typeFullName>
+      <string>Notes</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>acbdb9f0a1fd00f44bf08cc79a3c9bfb</guid>
+    <fileName>Assets/_Course Library/Scripts/Testing/TeleportAnchorWithFade.cs</fileName>
+    <timeStamp>2021-02-02T19:43:19-05:00</timeStamp>
+    <typeFullName>
+      <string>TeleportAnchorWithFade</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>6ff8c141078fcc047989a6de06ad07e6</guid>
+    <fileName>Assets/_Course Library/Scripts/Testing/TeleportAreaWithFade.cs</fileName>
+    <timeStamp>2021-02-02T19:43:19-05:00</timeStamp>
+    <typeFullName>
+      <string>TeleportAreaWithFade</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>98ad67e1fb185ff4aaf3e751d9772a88</guid>
+    <fileName>Assets/NatureManufacture Assets/Additional Tools/Scripts/Editor/VertexPainter.cs</fileName>
+    <timeStamp>2022-05-17T04:23:59-05:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>2c56d7f93c61f6244b7df25c78472397</guid>
+    <fileName>Assets/NatureManufacture Assets/Spline System/Scripts/MeshColoringRam.cs</fileName>
+    <timeStamp>2022-05-17T04:21:16-05:00</timeStamp>
+    <typeFullName>
+      <string>MeshColoringRam</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>699455856d53d7249861c616fa92965d</guid>
+    <fileName>Assets/NatureManufacture Assets/Spline System/Scripts/RamBuoyancy.cs</fileName>
+    <timeStamp>2022-05-17T04:22:53-05:00</timeStamp>
+    <typeFullName>
+      <string>RamBuoyancy</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>90aab69abd991e340b392a094924e817</guid>
+    <fileName>Assets/NatureManufacture Assets/Spline System/Scripts/RamSpline.cs</fileName>
+    <timeStamp>2022-05-17T04:23:48-05:00</timeStamp>
+    <typeFullName>
+      <string>RamSpline</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>9d559ec07676f794ea460d4324322121</guid>
+    <fileName>Assets/NatureManufacture Assets/Spline System/Scripts/SplineProfile.cs</fileName>
+    <timeStamp>2022-05-17T04:24:10-05:00</timeStamp>
+    <typeFullName>
+      <string>SplineProfile</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>d7f83b8fbc24fe64fa18c3d9061768a1</guid>
+    <fileName>Assets/NatureManufacture Assets/Spline System/Scripts/Editor/MeshColoringRamEditor.cs</fileName>
+    <timeStamp>2022-05-17T04:25:49-05:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>736a8865237bf9548877b172cac4b5bd</guid>
+    <fileName>Assets/NatureManufacture Assets/Spline System/Scripts/Editor/RamBackgroundEditor.cs</fileName>
+    <timeStamp>2022-05-17T04:23:05-05:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>ecf1320ade3823b4b88d0c3f02e8e443</guid>
+    <fileName>Assets/NatureManufacture Assets/Spline System/Scripts/Editor/RamSplineEditor.cs</fileName>
+    <timeStamp>2022-05-17T04:26:26-05:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>87a192f498c9d894ea67a40cc37d1769</guid>
+    <fileName>Assets/NatureManufacture Assets/Spline System/Scripts/Editor/SplineProfileEditor.cs</fileName>
+    <timeStamp>2022-05-17T04:23:38-05:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>972fcd29bf9fe274087ba3a700bac4d2</guid>
+    <fileName>Assets/NatureManufacture Assets/Spline System/Scripts/LakePolygon/LakePolygon.cs</fileName>
+    <timeStamp>2022-05-17T04:23:59-05:00</timeStamp>
+    <typeFullName>
+      <string>LakePolygon</string>
+      <string>LakePolygonCarveData</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>c062f1f622ac5144094df00784f8efb8</guid>
+    <fileName>Assets/NatureManufacture Assets/Spline System/Scripts/LakePolygon/LakePolygonProfile.cs</fileName>
+    <timeStamp>2022-05-17T04:24:57-05:00</timeStamp>
+    <typeFullName>
+      <string>LakePolygonProfile</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>55866ee1eb115f741ba5cd513538122e</guid>
+    <fileName>Assets/NatureManufacture Assets/Spline System/Scripts/LakePolygon/LakePolygonSwitch.cs</fileName>
+    <timeStamp>2022-05-17T04:22:15-05:00</timeStamp>
+    <typeFullName>
+      <string>LakePolygonSwitch</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>0e75765456db0a2459a8393520791507</guid>
+    <fileName>Assets/NatureManufacture Assets/Spline System/Scripts/LakePolygon/RamSwitch.cs</fileName>
+    <timeStamp>2022-05-17T04:20:26-05:00</timeStamp>
+    <typeFullName>
+      <string>RamSwitch</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>02e6181654654f746875d82ca7ed5d76</guid>
+    <fileName>Assets/NatureManufacture Assets/Spline System/Scripts/LakePolygon/Editor/LakePolygonEditor.cs</fileName>
+    <timeStamp>2022-05-17T04:20:09-05:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>c215ea87f44a29d48aa8b2c52f502f34</guid>
+    <fileName>Assets/NatureManufacture Assets/Spline System/Scripts/LakePolygon/Editor/LakePolygonProfileEditor.cs</fileName>
+    <timeStamp>2022-05-17T04:25:21-05:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>85d795f80219dac4faf7efcd2b2a69f5</guid>
+    <fileName>Assets/NatureManufacture Assets/Spline System/Scripts/LakePolygon/Triangulation/TriangleDotNet/Triangle/Behavior.cs</fileName>
+    <timeStamp>2022-05-17T04:23:37-05:00</timeStamp>
+    <typeFullName>
+      <string>TriangleNet.Behavior</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>334906b4661a6834da3af805d8352cd2</guid>
+    <fileName>Assets/NatureManufacture Assets/Spline System/Scripts/LakePolygon/Triangulation/TriangleDotNet/Triangle/Configuration.cs</fileName>
+    <timeStamp>2022-05-17T04:21:43-05:00</timeStamp>
+    <typeFullName>
+      <string>TriangleNet.Configuration</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>7c2cacde362bf94449dab2e6aa67e0b4</guid>
+    <fileName>Assets/NatureManufacture Assets/Spline System/Scripts/LakePolygon/Triangulation/TriangleDotNet/Triangle/Enums.cs</fileName>
+    <timeStamp>2022-05-17T04:23:28-05:00</timeStamp>
+    <typeFullName>
+      <string>TriangleNet.VertexType</string>
+      <string>TriangleNet.NodeNumbering</string>
+      <string>TriangleNet.LocateResult</string>
+      <string>TriangleNet.InsertVertexResult</string>
+      <string>TriangleNet.FindDirectionResult</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>b1976bc435764d144965fe0652b12dfd</guid>
+    <fileName>Assets/NatureManufacture Assets/Spline System/Scripts/LakePolygon/Triangulation/TriangleDotNet/Triangle/IPredicates.cs</fileName>
+    <timeStamp>2022-05-17T04:24:33-05:00</timeStamp>
+    <typeFullName>
+      <string>TriangleNet.IPredicates</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>89da0e54e3a340b47a4902d02ab4bbb1</guid>
+    <fileName>Assets/NatureManufacture Assets/Spline System/Scripts/LakePolygon/Triangulation/TriangleDotNet/Triangle/Log.cs</fileName>
+    <timeStamp>2022-05-17T04:23:38-05:00</timeStamp>
+    <typeFullName>
+      <string>TriangleNet.Log</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>ea186a0c1bb0e1340a1fc750e96b5961</guid>
+    <fileName>Assets/NatureManufacture Assets/Spline System/Scripts/LakePolygon/Triangulation/TriangleDotNet/Triangle/Mesh.cs</fileName>
+    <timeStamp>2022-05-17T04:26:08-05:00</timeStamp>
+    <typeFullName>
+      <string>TriangleNet.Mesh</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>aea417ac0a30e494abd86d31524401c4</guid>
+    <fileName>Assets/NatureManufacture Assets/Spline System/Scripts/LakePolygon/Triangulation/TriangleDotNet/Triangle/MeshValidator.cs</fileName>
+    <timeStamp>2022-05-17T04:24:29-05:00</timeStamp>
+    <typeFullName>
+      <string>TriangleNet.MeshValidator</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>96f20ea57ee91e740a29bb9d39db1829</guid>
+    <fileName>Assets/NatureManufacture Assets/Spline System/Scripts/LakePolygon/Triangulation/TriangleDotNet/Triangle/NewLocation.cs</fileName>
+    <timeStamp>2022-05-17T04:23:58-05:00</timeStamp>
+    <typeFullName>
+      <string>TriangleNet.NewLocation</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>eb2c00d9f0f5a3e408b5091e20c2df0b</guid>
+    <fileName>Assets/NatureManufacture Assets/Spline System/Scripts/LakePolygon/Triangulation/TriangleDotNet/Triangle/RobustPredicates.cs</fileName>
+    <timeStamp>2022-05-17T04:26:09-05:00</timeStamp>
+    <typeFullName>
+      <string>TriangleNet.RobustPredicates</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>0d8e604e2157de7458c4524d8be27986</guid>
+    <fileName>Assets/NatureManufacture Assets/Spline System/Scripts/LakePolygon/Triangulation/TriangleDotNet/Triangle/TriangleLocator.cs</fileName>
+    <timeStamp>2022-05-17T04:20:24-05:00</timeStamp>
+    <typeFullName>
+      <string>TriangleNet.TriangleLocator</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>6ff707bcf49bb9349a3f1f6d41bc6cc5</guid>
+    <fileName>Assets/NatureManufacture Assets/Spline System/Scripts/LakePolygon/Triangulation/TriangleDotNet/Triangle/TrianglePool.cs</fileName>
+    <timeStamp>2022-05-17T04:22:59-05:00</timeStamp>
+    <typeFullName>
+      <string>TriangleNet.TrianglePool</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>18d3c81892138ac4c98e4f90a31ed9ee</guid>
+    <fileName>Assets/NatureManufacture Assets/Spline System/Scripts/LakePolygon/Triangulation/TriangleDotNet/Triangle/TriangleSampler.cs</fileName>
+    <timeStamp>2022-05-17T04:20:36-05:00</timeStamp>
+    <typeFullName>
+      <string>TriangleNet.TriangleSampler</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>03552e4410e740f4f894b6a67924cc06</guid>
+    <fileName>Assets/NatureManufacture Assets/Spline System/Scripts/LakePolygon/Triangulation/TriangleDotNet/Triangle/Geometry/Contour.cs</fileName>
+    <timeStamp>2022-05-17T04:20:10-05:00</timeStamp>
+    <typeFullName>
+      <string>TriangleNet.Geometry.Contour</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>08fb92725da851e4ea4d00038d13253e</guid>
+    <fileName>Assets/NatureManufacture Assets/Spline System/Scripts/LakePolygon/Triangulation/TriangleDotNet/Triangle/Geometry/Edge.cs</fileName>
+    <timeStamp>2022-05-17T04:20:20-05:00</timeStamp>
+    <typeFullName>
+      <string>TriangleNet.Geometry.Edge</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>15c114ad1ed481c48ae5373acc52ac9f</guid>
+    <fileName>Assets/NatureManufacture Assets/Spline System/Scripts/LakePolygon/Triangulation/TriangleDotNet/Triangle/Geometry/ExtensionMethods.cs</fileName>
+    <timeStamp>2022-05-17T04:20:33-05:00</timeStamp>
+    <typeFullName>
+      <string>TriangleNet.Geometry.ExtensionMethods</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>59758d8a41e3ef74c9ff3bd88c552ed2</guid>
+    <fileName>Assets/NatureManufacture Assets/Spline System/Scripts/LakePolygon/Triangulation/TriangleDotNet/Triangle/Geometry/IEdge.cs</fileName>
+    <timeStamp>2022-05-17T04:22:18-05:00</timeStamp>
+    <typeFullName>
+      <string>TriangleNet.Geometry.IEdge</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>28979ca72561ed8489498d78cd42ea4c</guid>
+    <fileName>Assets/NatureManufacture Assets/Spline System/Scripts/LakePolygon/Triangulation/TriangleDotNet/Triangle/Geometry/IPolygon.cs</fileName>
+    <timeStamp>2022-05-17T04:21:01-05:00</timeStamp>
+    <typeFullName>
+      <string>TriangleNet.Geometry.IPolygon</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>9a57ce67fbd503e4a930168d1ca867dd</guid>
+    <fileName>Assets/NatureManufacture Assets/Spline System/Scripts/LakePolygon/Triangulation/TriangleDotNet/Triangle/Geometry/ISegment.cs</fileName>
+    <timeStamp>2022-05-17T04:24:02-05:00</timeStamp>
+    <typeFullName>
+      <string>TriangleNet.Geometry.ISegment</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>4e5f119afd71c0c4e829c583961c301f</guid>
+    <fileName>Assets/NatureManufacture Assets/Spline System/Scripts/LakePolygon/Triangulation/TriangleDotNet/Triangle/Geometry/ITriangle.cs</fileName>
+    <timeStamp>2022-05-17T04:22:11-05:00</timeStamp>
+    <typeFullName>
+      <string>TriangleNet.Geometry.ITriangle</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>45b370d3a9cc67a489fa68a684c51469</guid>
+    <fileName>Assets/NatureManufacture Assets/Spline System/Scripts/LakePolygon/Triangulation/TriangleDotNet/Triangle/Geometry/Point.cs</fileName>
+    <timeStamp>2022-05-17T04:21:55-05:00</timeStamp>
+    <typeFullName>
+      <string>TriangleNet.Geometry.Point</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>2dff852801a5c6e44b47ef4759ac0481</guid>
+    <fileName>Assets/NatureManufacture Assets/Spline System/Scripts/LakePolygon/Triangulation/TriangleDotNet/Triangle/Geometry/Polygon.cs</fileName>
+    <timeStamp>2022-05-17T04:21:18-05:00</timeStamp>
+    <typeFullName>
+      <string>TriangleNet.Geometry.Polygon</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>399530cd767f3bd4e9e67d6f17194820</guid>
+    <fileName>Assets/NatureManufacture Assets/Spline System/Scripts/LakePolygon/Triangulation/TriangleDotNet/Triangle/Geometry/Rectangle.cs</fileName>
+    <timeStamp>2022-05-17T04:21:49-05:00</timeStamp>
+    <typeFullName>
+      <string>TriangleNet.Geometry.Rectangle</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>92da3f5c27fc4d84a9ca76315eececa3</guid>
+    <fileName>Assets/NatureManufacture Assets/Spline System/Scripts/LakePolygon/Triangulation/TriangleDotNet/Triangle/Geometry/RegionPointer.cs</fileName>
+    <timeStamp>2022-05-17T04:23:51-05:00</timeStamp>
+    <typeFullName>
+      <string>TriangleNet.Geometry.RegionPointer</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>0a54176dd85cd42469df6e10a7959081</guid>
+    <fileName>Assets/NatureManufacture Assets/Spline System/Scripts/LakePolygon/Triangulation/TriangleDotNet/Triangle/Geometry/Segment.cs</fileName>
+    <timeStamp>2022-05-17T04:20:20-05:00</timeStamp>
+    <typeFullName>
+      <string>TriangleNet.Geometry.Segment</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>3f8814c64e26da34aaf26c38f0017063</guid>
+    <fileName>Assets/NatureManufacture Assets/Spline System/Scripts/LakePolygon/Triangulation/TriangleDotNet/Triangle/Geometry/Vertex.cs</fileName>
+    <timeStamp>2022-05-17T04:21:50-05:00</timeStamp>
+    <typeFullName>
+      <string>TriangleNet.Geometry.Vertex</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>8c6a497c40fa00c478326f8514c5920f</guid>
+    <fileName>Assets/NatureManufacture Assets/Spline System/Scripts/LakePolygon/Triangulation/TriangleDotNet/Triangle/IO/DebugWriter.cs</fileName>
+    <timeStamp>2022-05-17T04:23:44-05:00</timeStamp>
+    <typeFullName>
+      <string>TriangleNet.IO.DebugWriter</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>bd2bf02f8df7b0f4ca0b79d41256c169</guid>
+    <fileName>Assets/NatureManufacture Assets/Spline System/Scripts/LakePolygon/Triangulation/TriangleDotNet/Triangle/IO/FileProcessor.cs</fileName>
+    <timeStamp>2022-05-17T04:24:54-05:00</timeStamp>
+    <typeFullName>
+      <string>TriangleNet.IO.FileProcessor</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>e82e2bbce3aa9624b88a5ad5878e3980</guid>
+    <fileName>Assets/NatureManufacture Assets/Spline System/Scripts/LakePolygon/Triangulation/TriangleDotNet/Triangle/IO/IFileFormat.cs</fileName>
+    <timeStamp>2022-05-17T04:26:05-05:00</timeStamp>
+    <typeFullName>
+      <string>TriangleNet.IO.IFileFormat</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>5a4709bc241d31f4098191c4d6812190</guid>
+    <fileName>Assets/NatureManufacture Assets/Spline System/Scripts/LakePolygon/Triangulation/TriangleDotNet/Triangle/IO/IMeshFormat.cs</fileName>
+    <timeStamp>2022-05-17T04:22:20-05:00</timeStamp>
+    <typeFullName>
+      <string>TriangleNet.IO.IMeshFormat</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>554057c905339504bbb229582ab80f85</guid>
+    <fileName>Assets/NatureManufacture Assets/Spline System/Scripts/LakePolygon/Triangulation/TriangleDotNet/Triangle/IO/InputTriangle.cs</fileName>
+    <timeStamp>2022-05-17T04:22:15-05:00</timeStamp>
+    <typeFullName>
+      <string>TriangleNet.IO.InputTriangle</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>d6978d971e040cc4087eb037fcdf5aa9</guid>
+    <fileName>Assets/NatureManufacture Assets/Spline System/Scripts/LakePolygon/Triangulation/TriangleDotNet/Triangle/IO/IPolygonFormat.cs</fileName>
+    <timeStamp>2022-05-17T04:25:49-05:00</timeStamp>
+    <typeFullName>
+      <string>TriangleNet.IO.IPolygonFormat</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>7c3f3b53e0e055745a21047d8665b09d</guid>
+    <fileName>Assets/NatureManufacture Assets/Spline System/Scripts/LakePolygon/Triangulation/TriangleDotNet/Triangle/IO/TriangleFormat.cs</fileName>
+    <timeStamp>2022-05-17T04:23:28-05:00</timeStamp>
+    <typeFullName>
+      <string>TriangleNet.IO.TriangleFormat</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>ed1157b0c7cf3114c860bcf4dedca48e</guid>
+    <fileName>Assets/NatureManufacture Assets/Spline System/Scripts/LakePolygon/Triangulation/TriangleDotNet/Triangle/IO/TriangleReader.cs</fileName>
+    <timeStamp>2022-05-17T04:26:26-05:00</timeStamp>
+    <typeFullName>
+      <string>TriangleNet.IO.TriangleReader</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>ec598ec888a387941b20783875f67a6d</guid>
+    <fileName>Assets/NatureManufacture Assets/Spline System/Scripts/LakePolygon/Triangulation/TriangleDotNet/Triangle/IO/TriangleWriter.cs</fileName>
+    <timeStamp>2022-05-17T04:26:10-05:00</timeStamp>
+    <typeFullName>
+      <string>TriangleNet.IO.TriangleWriter</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>cb034a93a949ff04b903a2eb59659f55</guid>
+    <fileName>Assets/NatureManufacture Assets/Spline System/Scripts/LakePolygon/Triangulation/TriangleDotNet/Triangle/Logging/ILog.cs</fileName>
+    <timeStamp>2022-05-17T04:25:28-05:00</timeStamp>
+    <typeFullName>
+      <string>TriangleNet.Logging.LogLevel</string>
+      <string>TriangleNet.Logging.ILog`1</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>dad1be6a45049dd4f8bec7be09faba6f</guid>
+    <fileName>Assets/NatureManufacture Assets/Spline System/Scripts/LakePolygon/Triangulation/TriangleDotNet/Triangle/Logging/ILogItem.cs</fileName>
+    <timeStamp>2022-05-17T04:25:51-05:00</timeStamp>
+    <typeFullName>
+      <string>TriangleNet.Logging.ILogItem</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>f46fb55e5b5ec2a49bd3dbc7cca5d939</guid>
+    <fileName>Assets/NatureManufacture Assets/Spline System/Scripts/LakePolygon/Triangulation/TriangleDotNet/Triangle/Logging/LogItem.cs</fileName>
+    <timeStamp>2022-05-17T04:26:39-05:00</timeStamp>
+    <typeFullName>
+      <string>TriangleNet.Logging.LogItem</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>019d080ec8fed524781d264d15a6a6a3</guid>
+    <fileName>Assets/NatureManufacture Assets/Spline System/Scripts/LakePolygon/Triangulation/TriangleDotNet/Triangle/Meshing/ConstraintMesher.cs</fileName>
+    <timeStamp>2022-05-17T04:20:06-05:00</timeStamp>
+    <typeFullName>
+      <string>TriangleNet.Meshing.ConstraintMesher</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>a743f62b7dadf7445982cee7be6718a1</guid>
+    <fileName>Assets/NatureManufacture Assets/Spline System/Scripts/LakePolygon/Triangulation/TriangleDotNet/Triangle/Meshing/ConstraintOptions.cs</fileName>
+    <timeStamp>2022-05-17T04:24:19-05:00</timeStamp>
+    <typeFullName>
+      <string>TriangleNet.Meshing.ConstraintOptions</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>ae73eea1a97929842acd2584127ba471</guid>
+    <fileName>Assets/NatureManufacture Assets/Spline System/Scripts/LakePolygon/Triangulation/TriangleDotNet/Triangle/Meshing/Converter.cs</fileName>
+    <timeStamp>2022-05-17T04:24:28-05:00</timeStamp>
+    <typeFullName>
+      <string>TriangleNet.Meshing.Converter</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>4246633bbc9581f4e907ed8eb94e3f4e</guid>
+    <fileName>Assets/NatureManufacture Assets/Spline System/Scripts/LakePolygon/Triangulation/TriangleDotNet/Triangle/Meshing/GenericMesher.cs</fileName>
+    <timeStamp>2022-05-17T04:21:51-05:00</timeStamp>
+    <typeFullName>
+      <string>TriangleNet.Meshing.GenericMesher</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>df0ca5904e5171d4bb985b3df2752158</guid>
+    <fileName>Assets/NatureManufacture Assets/Spline System/Scripts/LakePolygon/Triangulation/TriangleDotNet/Triangle/Meshing/IConstraintMesher.cs</fileName>
+    <timeStamp>2022-05-17T04:25:59-05:00</timeStamp>
+    <typeFullName>
+      <string>TriangleNet.Meshing.IConstraintMesher</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>b816e75893d6eab4284ecdb0e7e4cc65</guid>
+    <fileName>Assets/NatureManufacture Assets/Spline System/Scripts/LakePolygon/Triangulation/TriangleDotNet/Triangle/Meshing/IMesh.cs</fileName>
+    <timeStamp>2022-05-17T04:24:38-05:00</timeStamp>
+    <typeFullName>
+      <string>TriangleNet.Meshing.IMesh</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>ec4e12558e15ea24dbee272cb133c1d3</guid>
+    <fileName>Assets/NatureManufacture Assets/Spline System/Scripts/LakePolygon/Triangulation/TriangleDotNet/Triangle/Meshing/IQualityMesher.cs</fileName>
+    <timeStamp>2022-05-17T04:26:10-05:00</timeStamp>
+    <typeFullName>
+      <string>TriangleNet.Meshing.IQualityMesher</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>5e6a968a92b5f5e439022834de3e680a</guid>
+    <fileName>Assets/NatureManufacture Assets/Spline System/Scripts/LakePolygon/Triangulation/TriangleDotNet/Triangle/Meshing/ITriangulator.cs</fileName>
+    <timeStamp>2022-05-17T04:22:26-05:00</timeStamp>
+    <typeFullName>
+      <string>TriangleNet.Meshing.ITriangulator</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>2bcac22958d8cbd4b9a289a7bb4ff444</guid>
+    <fileName>Assets/NatureManufacture Assets/Spline System/Scripts/LakePolygon/Triangulation/TriangleDotNet/Triangle/Meshing/QualityMesher.cs</fileName>
+    <timeStamp>2022-05-17T04:21:16-05:00</timeStamp>
+    <typeFullName>
+      <string>TriangleNet.Meshing.QualityMesher</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>c72ba9436ba8e3e4985fa2e5c7fe4cbc</guid>
+    <fileName>Assets/NatureManufacture Assets/Spline System/Scripts/LakePolygon/Triangulation/TriangleDotNet/Triangle/Meshing/QualityOptions.cs</fileName>
+    <timeStamp>2022-05-17T04:25:26-05:00</timeStamp>
+    <typeFullName>
+      <string>TriangleNet.Meshing.QualityOptions</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>774d4500ab83da549a79dfa96c6a8134</guid>
+    <fileName>Assets/NatureManufacture Assets/Spline System/Scripts/LakePolygon/Triangulation/TriangleDotNet/Triangle/Meshing/Algorithm/Dwyer.cs</fileName>
+    <timeStamp>2022-05-17T04:23:22-05:00</timeStamp>
+    <typeFullName>
+      <string>TriangleNet.Meshing.Algorithm.Dwyer</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>ad49a93f48d7d004593c1bd5b1d7708f</guid>
+    <fileName>Assets/NatureManufacture Assets/Spline System/Scripts/LakePolygon/Triangulation/TriangleDotNet/Triangle/Meshing/Algorithm/Incremental.cs</fileName>
+    <timeStamp>2022-05-17T04:24:28-05:00</timeStamp>
+    <typeFullName>
+      <string>TriangleNet.Meshing.Algorithm.Incremental</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>3466441b34503764d8911dfdd0f6fe70</guid>
+    <fileName>Assets/NatureManufacture Assets/Spline System/Scripts/LakePolygon/Triangulation/TriangleDotNet/Triangle/Meshing/Algorithm/SweepLine.cs</fileName>
+    <timeStamp>2022-05-17T04:21:44-05:00</timeStamp>
+    <typeFullName>
+      <string>TriangleNet.Meshing.Algorithm.SweepLine</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>fc2f08d186db7e34ba403e13c785ddcc</guid>
+    <fileName>Assets/NatureManufacture Assets/Spline System/Scripts/LakePolygon/Triangulation/TriangleDotNet/Triangle/Meshing/Data/BadSubseg.cs</fileName>
+    <timeStamp>2022-05-17T04:27:15-05:00</timeStamp>
+    <typeFullName>
+      <string>TriangleNet.Meshing.Data.BadSubseg</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>33e85e76f0f53d748b9cd1bd8045c38b</guid>
+    <fileName>Assets/NatureManufacture Assets/Spline System/Scripts/LakePolygon/Triangulation/TriangleDotNet/Triangle/Meshing/Data/BadTriangle.cs</fileName>
+    <timeStamp>2022-05-17T04:21:43-05:00</timeStamp>
+    <typeFullName>
+      <string>TriangleNet.Meshing.Data.BadTriangle</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>c6c678cab4f88894ba75ac2aa8155b37</guid>
+    <fileName>Assets/NatureManufacture Assets/Spline System/Scripts/LakePolygon/Triangulation/TriangleDotNet/Triangle/Meshing/Data/BadTriQueue.cs</fileName>
+    <timeStamp>2022-05-17T04:25:26-05:00</timeStamp>
+    <typeFullName>
+      <string>TriangleNet.Meshing.Data.BadTriQueue</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>cff7679ecfdfffb449ec1788e6de34dc</guid>
+    <fileName>Assets/NatureManufacture Assets/Spline System/Scripts/LakePolygon/Triangulation/TriangleDotNet/Triangle/Meshing/Iterators/EdgeIterator.cs</fileName>
+    <timeStamp>2022-05-17T04:25:32-05:00</timeStamp>
+    <typeFullName>
+      <string>TriangleNet.Meshing.Iterators.EdgeIterator</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>9f6fbf9757f69334bae1c8c62852da37</guid>
+    <fileName>Assets/NatureManufacture Assets/Spline System/Scripts/LakePolygon/Triangulation/TriangleDotNet/Triangle/Meshing/Iterators/RegionIterator.cs</fileName>
+    <timeStamp>2022-05-17T04:24:11-05:00</timeStamp>
+    <typeFullName>
+      <string>TriangleNet.Meshing.Iterators.RegionIterator</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>e41eaaecc807c6647a337dbe928fc89b</guid>
+    <fileName>Assets/NatureManufacture Assets/Spline System/Scripts/LakePolygon/Triangulation/TriangleDotNet/Triangle/Meshing/Iterators/VertexCirculator.cs</fileName>
+    <timeStamp>2022-05-17T04:26:02-05:00</timeStamp>
+    <typeFullName>
+      <string>TriangleNet.Meshing.Iterators.VertexCirculator</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>7f174af90bc156049914ed03f3fa7f4e</guid>
+    <fileName>Assets/NatureManufacture Assets/Spline System/Scripts/LakePolygon/Triangulation/TriangleDotNet/Triangle/Properties/AssemblyInfo.cs</fileName>
+    <timeStamp>2022-05-17T04:23:31-05:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>a2d3f413dfd38444ba804b7f6876da1b</guid>
+    <fileName>Assets/NatureManufacture Assets/Spline System/Scripts/LakePolygon/Triangulation/TriangleDotNet/Triangle/Smoothing/ISmoother.cs</fileName>
+    <timeStamp>2022-05-17T04:24:14-05:00</timeStamp>
+    <typeFullName>
+      <string>TriangleNet.Smoothing.ISmoother</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>a015eb96843d7904d8650ce5479029b2</guid>
+    <fileName>Assets/NatureManufacture Assets/Spline System/Scripts/LakePolygon/Triangulation/TriangleDotNet/Triangle/Smoothing/SimpleSmoother.cs</fileName>
+    <timeStamp>2022-05-17T04:24:12-05:00</timeStamp>
+    <typeFullName>
+      <string>TriangleNet.Smoothing.SimpleSmoother</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>b928e0172e4d885418da9f2112c8477e</guid>
+    <fileName>Assets/NatureManufacture Assets/Spline System/Scripts/LakePolygon/Triangulation/TriangleDotNet/Triangle/Smoothing/VoronoiFactory.cs</fileName>
+    <timeStamp>2022-05-17T04:24:45-05:00</timeStamp>
+    <typeFullName>
+      <string>TriangleNet.Smoothing.VoronoiFactory</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>f9a53cd21e202fa41b16639a498e7551</guid>
+    <fileName>Assets/NatureManufacture Assets/Spline System/Scripts/LakePolygon/Triangulation/TriangleDotNet/Triangle/Tools/AdjacencyMatrix.cs</fileName>
+    <timeStamp>2022-05-17T04:27:14-05:00</timeStamp>
+    <typeFullName>
+      <string>TriangleNet.Tools.AdjacencyMatrix</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>12e29869d38502f47b938dfce4021e02</guid>
+    <fileName>Assets/NatureManufacture Assets/Spline System/Scripts/LakePolygon/Triangulation/TriangleDotNet/Triangle/Tools/CuthillMcKee.cs</fileName>
+    <timeStamp>2022-05-17T04:20:29-05:00</timeStamp>
+    <typeFullName>
+      <string>TriangleNet.Tools.CuthillMcKee</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>47c3e3e9ff23df94e865e112129509ba</guid>
+    <fileName>Assets/NatureManufacture Assets/Spline System/Scripts/LakePolygon/Triangulation/TriangleDotNet/Triangle/Tools/Interpolation.cs</fileName>
+    <timeStamp>2022-05-17T04:21:57-05:00</timeStamp>
+    <typeFullName>
+      <string>TriangleNet.Tools.Interpolation</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>f4553b3c2ff9553489873b1015903b45</guid>
+    <fileName>Assets/NatureManufacture Assets/Spline System/Scripts/LakePolygon/Triangulation/TriangleDotNet/Triangle/Tools/IntersectionHelper.cs</fileName>
+    <timeStamp>2022-05-17T04:26:39-05:00</timeStamp>
+    <typeFullName>
+      <string>TriangleNet.Tools.IntersectionHelper</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>190a2ac0abc171a40921c2fadeb992f6</guid>
+    <fileName>Assets/NatureManufacture Assets/Spline System/Scripts/LakePolygon/Triangulation/TriangleDotNet/Triangle/Tools/PolygonValidator.cs</fileName>
+    <timeStamp>2022-05-17T04:20:36-05:00</timeStamp>
+    <typeFullName>
+      <string>TriangleNet.Tools.PolygonValidator</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>2597a8eddea1f7a48931a6b4bda44242</guid>
+    <fileName>Assets/NatureManufacture Assets/Spline System/Scripts/LakePolygon/Triangulation/TriangleDotNet/Triangle/Tools/QualityMeasure.cs</fileName>
+    <timeStamp>2022-05-17T04:20:54-05:00</timeStamp>
+    <typeFullName>
+      <string>TriangleNet.Tools.QualityMeasure</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>dc812c0bd4735924389b71949f9ceb43</guid>
+    <fileName>Assets/NatureManufacture Assets/Spline System/Scripts/LakePolygon/Triangulation/TriangleDotNet/Triangle/Tools/Statistic.cs</fileName>
+    <timeStamp>2022-05-17T04:25:52-05:00</timeStamp>
+    <typeFullName>
+      <string>TriangleNet.Tools.Statistic</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>e79cac680f6c1474daed0ca969a0e83f</guid>
+    <fileName>Assets/NatureManufacture Assets/Spline System/Scripts/LakePolygon/Triangulation/TriangleDotNet/Triangle/Tools/TriangleQuadTree.cs</fileName>
+    <timeStamp>2022-05-17T04:26:05-05:00</timeStamp>
+    <typeFullName>
+      <string>TriangleNet.Tools.TriangleQuadTree</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>d062ae8bebd4ab74c83a3f52842882e6</guid>
+    <fileName>Assets/NatureManufacture Assets/Spline System/Scripts/LakePolygon/Triangulation/TriangleDotNet/Triangle/Tools/VertexSorter.cs</fileName>
+    <timeStamp>2022-05-17T04:25:32-05:00</timeStamp>
+    <typeFullName>
+      <string>TriangleNet.Tools.VertexSorter</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>fd7b0eb4623a952419f055c2f85e6c13</guid>
+    <fileName>Assets/NatureManufacture Assets/Spline System/Scripts/LakePolygon/Triangulation/TriangleDotNet/Triangle/Topology/Osub.cs</fileName>
+    <timeStamp>2022-05-17T04:27:16-05:00</timeStamp>
+    <typeFullName>
+      <string>TriangleNet.Topology.Osub</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>82eb33b4665d47544b601e71a18765af</guid>
+    <fileName>Assets/NatureManufacture Assets/Spline System/Scripts/LakePolygon/Triangulation/TriangleDotNet/Triangle/Topology/Otri.cs</fileName>
+    <timeStamp>2022-05-17T04:23:34-05:00</timeStamp>
+    <typeFullName>
+      <string>TriangleNet.Topology.Otri</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>aa492fa12e3e5704ebfb14f6d9744560</guid>
+    <fileName>Assets/NatureManufacture Assets/Spline System/Scripts/LakePolygon/Triangulation/TriangleDotNet/Triangle/Topology/SubSegment.cs</fileName>
+    <timeStamp>2022-05-17T04:24:24-05:00</timeStamp>
+    <typeFullName>
+      <string>TriangleNet.Topology.SubSegment</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>65547546c8ba949408a07be681eee69a</guid>
+    <fileName>Assets/NatureManufacture Assets/Spline System/Scripts/LakePolygon/Triangulation/TriangleDotNet/Triangle/Topology/Triangle.cs</fileName>
+    <timeStamp>2022-05-17T04:22:41-05:00</timeStamp>
+    <typeFullName>
+      <string>TriangleNet.Topology.Triangle</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>4be93059f18a2c346a5cc8b266d04f26</guid>
+    <fileName>Assets/NatureManufacture Assets/Spline System/Scripts/LakePolygon/Triangulation/TriangleDotNet/Triangle/Topology/DCEL/DcelMesh.cs</fileName>
+    <timeStamp>2022-05-17T04:22:02-05:00</timeStamp>
+    <typeFullName>
+      <string>TriangleNet.Topology.DCEL.DcelMesh</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>08a439e8d3f0153488a1b3f09cddc422</guid>
+    <fileName>Assets/NatureManufacture Assets/Spline System/Scripts/LakePolygon/Triangulation/TriangleDotNet/Triangle/Topology/DCEL/Face.cs</fileName>
+    <timeStamp>2022-05-17T04:20:19-05:00</timeStamp>
+    <typeFullName>
+      <string>TriangleNet.Topology.DCEL.Face</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>5bf7ca8c6f371c74ba70794ffeecf6ca</guid>
+    <fileName>Assets/NatureManufacture Assets/Spline System/Scripts/LakePolygon/Triangulation/TriangleDotNet/Triangle/Topology/DCEL/HalfEdge.cs</fileName>
+    <timeStamp>2022-05-17T04:22:21-05:00</timeStamp>
+    <typeFullName>
+      <string>TriangleNet.Topology.DCEL.HalfEdge</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>12f7b4c2b07ff1e4db4fe17b8227af48</guid>
+    <fileName>Assets/NatureManufacture Assets/Spline System/Scripts/LakePolygon/Triangulation/TriangleDotNet/Triangle/Topology/DCEL/Vertex.cs</fileName>
+    <timeStamp>2022-05-17T04:20:30-05:00</timeStamp>
+    <typeFullName>
+      <string>TriangleNet.Topology.DCEL.Vertex</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>d6077a475ae48e04a9b78cf45310a3ef</guid>
+    <fileName>Assets/NatureManufacture Assets/Spline System/Scripts/LakePolygon/Triangulation/TriangleDotNet/Triangle/Voronoi/BoundedVoronoi.cs</fileName>
+    <timeStamp>2022-05-17T04:25:48-05:00</timeStamp>
+    <typeFullName>
+      <string>TriangleNet.Voronoi.BoundedVoronoi</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>49125b5292cfa9842a0bdc6b463f9edc</guid>
+    <fileName>Assets/NatureManufacture Assets/Spline System/Scripts/LakePolygon/Triangulation/TriangleDotNet/Triangle/Voronoi/DefaultVoronoiFactory.cs</fileName>
+    <timeStamp>2022-05-17T04:21:59-05:00</timeStamp>
+    <typeFullName>
+      <string>TriangleNet.Voronoi.DefaultVoronoiFactory</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>71a96ff006ead3740aca0864f786f3f7</guid>
+    <fileName>Assets/NatureManufacture Assets/Spline System/Scripts/LakePolygon/Triangulation/TriangleDotNet/Triangle/Voronoi/IVoronoiFactory.cs</fileName>
+    <timeStamp>2022-05-17T04:23:01-05:00</timeStamp>
+    <typeFullName>
+      <string>TriangleNet.Voronoi.IVoronoiFactory</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>2b94e4f9628a6fe4889c43a676e1b8db</guid>
+    <fileName>Assets/NatureManufacture Assets/Spline System/Scripts/LakePolygon/Triangulation/TriangleDotNet/Triangle/Voronoi/StandardVoronoi.cs</fileName>
+    <timeStamp>2022-05-17T04:21:15-05:00</timeStamp>
+    <typeFullName>
+      <string>TriangleNet.Voronoi.StandardVoronoi</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>f65c0ede27e3ed84bbc4f46885a4add8</guid>
+    <fileName>Assets/NatureManufacture Assets/Spline System/Scripts/LakePolygon/Triangulation/TriangleDotNet/Triangle/Voronoi/VoronoiBase.cs</fileName>
+    <timeStamp>2022-05-17T04:26:53-05:00</timeStamp>
+    <typeFullName>
+      <string>TriangleNet.Voronoi.VoronoiBase</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>f6b2d16d9096d46469ee24d52cddc469</guid>
+    <fileName>Assets/NatureManufacture Assets/Spline System/Scripts/LakePolygon/Triangulation/TriangleDotNet/Triangle/Voronoi/Legacy/BoundedVoronoiLegacy.cs</fileName>
+    <timeStamp>2022-05-17T04:27:04-05:00</timeStamp>
+    <typeFullName>
+      <string>TriangleNet.Voronoi.Legacy.BoundedVoronoiLegacy</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>3799fbad454642241a23de181ffb5464</guid>
+    <fileName>Assets/NatureManufacture Assets/Spline System/Scripts/LakePolygon/Triangulation/TriangleDotNet/Triangle/Voronoi/Legacy/IVoronoi.cs</fileName>
+    <timeStamp>2022-05-17T04:21:48-05:00</timeStamp>
+    <typeFullName>
+      <string>TriangleNet.Voronoi.Legacy.IVoronoi</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>c94e07bc1b0cc7d45bab5433c1f775bf</guid>
+    <fileName>Assets/NatureManufacture Assets/Spline System/Scripts/LakePolygon/Triangulation/TriangleDotNet/Triangle/Voronoi/Legacy/SimpleVoronoi.cs</fileName>
+    <timeStamp>2022-05-17T04:25:28-05:00</timeStamp>
+    <typeFullName>
+      <string>TriangleNet.Voronoi.Legacy.SimpleVoronoi</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>aa253ee84b4f3c94fab834a16116893f</guid>
+    <fileName>Assets/NatureManufacture Assets/Spline System/Scripts/LakePolygon/Triangulation/TriangleDotNet/Triangle/Voronoi/Legacy/VoronoiRegion.cs</fileName>
+    <timeStamp>2022-05-17T04:24:23-05:00</timeStamp>
+    <typeFullName>
+      <string>TriangleNet.Voronoi.Legacy.VoronoiRegion</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>997a535e6f35ab74593d26ee10b3abe1</guid>
+    <fileName>Assets/TOZ/Packs/FlowPainter/Editor/Tools/FlowPainter.cs</fileName>
+    <timeStamp>2022-10-26T04:22:26-05:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>e77dac23a1b8411438c3e69e25fab18c</guid>
+    <fileName>Assets/TOZ/_Common/Editor/Tools/AdsView.cs</fileName>
+    <timeStamp>2022-10-26T04:22:27-05:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+</ArrayOfTypeDate>
